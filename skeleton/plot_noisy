@@ -1,0 +1,4 @@
+set title 'Noisy Wave'
+set term png
+set output 'noisy.png'
+plot 'samples_noisy.csv'

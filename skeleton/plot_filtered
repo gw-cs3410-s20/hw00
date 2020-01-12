@@ -1,0 +1,4 @@
+set title 'Filtered Wave'
+set term png
+set output 'filtered.png'
+plot 'samples_filtered.csv'

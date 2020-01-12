@@ -1,0 +1,4 @@
+set title 'Clean Wave'
+set term png
+set output 'clean.png'
+plot 'samples_clean.csv'
